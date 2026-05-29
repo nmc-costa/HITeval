@@ -12,7 +12,7 @@ You don't need to be a developer to use this tool.
 
 1. **Download the tool:** Click the green \<\> Code button above and select **"Download ZIP"**.  
 2. **Extract:** Extract the downloaded folder on your computer.  
-3. **Run:** Open the folder and double-click the index.html file. It will open in your default web browser.  
+3. **Run:** Open the folder and double-click the [HITeval_dashboard.html](https://github.com/nmc-costa/HITeval/blob/main/HITeval_dashboard.html) file. It will open in your default web browser.  
 4. **Get the Template:** Inside the app, click "Download CSV Template" to get the standard spreadsheet format.  
 5. **Fill & Drop:** Fill the CSV with your team's scores (in Excel or Google Sheets), save as .csv, and drag it back into the app\!
 
