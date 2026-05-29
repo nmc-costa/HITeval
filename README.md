@@ -1,3 +1,5 @@
+© Since 2021 nmc-costa. All Rights Reserved. simplifyhit™ is a trademark of nmc-costa.
+
 <p align="center">
   <img src="https://github.com/nmc-costa/HITeval/blob/main/hiteval_logo.svg" width="250">
 </p>
