@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/nmc-costa/hiteval/raw/main/docs/logo_hiteval.xml" width="50">
+</p>
+
 # **🎯 HITeval**
 
 Part of the [**SimplifyHIT**](https://github.com/nmc-costa/simplifyhit) ecosystem: Tools to simplify Human-Interface Technologies (HIT).
