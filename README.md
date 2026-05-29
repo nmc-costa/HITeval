@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/nmc-costa/hiteval/raw/main/docs/logo_hiteval.xml" width="50">
+  <img src="https://github.com/nmc-costa/HITeval/blob/main/hiteval_logo.xml" width="50">
 </p>
 
 # **🎯 HITeval**
